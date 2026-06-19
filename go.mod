@@ -1,3 +1,5 @@
-module mybot
+module razercheckerbot
 
-go 1.26
+go 1.22
+
+require github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.7.8
