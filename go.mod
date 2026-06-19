@@ -1,2 +1,3 @@
-go mod init mybot
-go mod tidy
+module mybot
+
+go 1.26
