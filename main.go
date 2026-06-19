@@ -126,8 +126,7 @@ https://razorpay.me/@notescrafter
 https://razorpay.me/@cliqueholidaysllp
 https://razorpay.me/@bharatkaaitech
 https://razorpay.me/@ganpatigarments19
-https://razorpay.me/@ijratnani",
-    }
+https://razorpay.me/@ijratnani", }
     urlIndex   uint64
     proxyIndex uint64
 )
